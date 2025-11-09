@@ -7,7 +7,7 @@ function App() {
   return (
 
     <div className="p-6 space-y-6">
-      <h1 className="text-2xl font-bold">NirusMan(Postman)</h1>
+      <h1 className="text-2xl font-bold">NirusMan(Postman Lite!)</h1>
 
       <GETApi />
       <PutApi />
